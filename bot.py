@@ -1085,7 +1085,7 @@ async def safe_edit(query, text: str, reply_markup=None, parse_mode="HTML"):
 # ═══════════════════════════════════════════════════════════
 #  DEFAULT CONSTANTS  (overridden by config.json)
 # ═══════════════════════════════════════════════════════════
-BOT_TOKEN         = "7952943119:AAFGuZiurY4yiaTCPwkrmsH51EUayr_DUFU"   # Set BOT_TOKEN env var or config.json 
+BOT_TOKEN         = ""   # Set BOT_TOKEN env var or config.json 
 BOT_USERNAME      = "CrackSMSReBot" # PUT HERE UR BOT USERNAME
 INITIAL_ADMIN_IDS = [7831921606, 8222195948] # PUT HERE UR ADMINS CHAT ID
 
